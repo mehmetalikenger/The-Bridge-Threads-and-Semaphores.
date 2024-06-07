@@ -1,2 +1,3 @@
-# The-Bridge-Threads-and-Semaphores.
-One bridge...two sides..one line. Simultaneously coming cars from the both sides. Which side will cross the bridge? This program uses semaphores to solve this problem.
+There is a bridge, and this bridge has one lane. Both directions can use the bridge. 
+A maximum of 10 cars(threads) from the same direction can cross simultaneously, and a maximum of three cars can be on the bridge at the same time, and the direction of these cars must be the same.
+To solve this problem I use semaphores in this program.
